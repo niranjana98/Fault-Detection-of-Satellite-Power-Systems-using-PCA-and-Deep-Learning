@@ -8,7 +8,7 @@ The ADAPT is a test bed developed by NASA Ames and Research Centre to act as a b
 Dataset.csv: Contains the above explained Dataset 
 
 ## Methadology
-![alt text](https://github.com/niranjana98//blob/main/image.jpg?raw=true)
+![alt text](https://github.com/niranjana98/Fault-Detection-of-Satellite-Power-Systems-using-Deep-Learning/blob/main/Bildschirmfoto%202021-02-02%20um%2021.26.21.png)
 
 The Goal chosen is Binary Classification and hence the dataset is labelled as 0 for "No Fault" and 1 for "Faulty"
 
