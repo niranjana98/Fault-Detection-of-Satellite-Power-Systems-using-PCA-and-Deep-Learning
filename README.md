@@ -10,5 +10,16 @@ Fault detection and diagnosis is one of the key technologies for monitoring the 
 ## Dataset:
 The ADAPT is a test bed developed by NASA Ames and Research Centre to act as a benchmark or testing and verification tool. All data samples in the datasets are viewed as a list of faults and under normal conditions, including all sensor data collected across a time period at various frequencies, spanning the length of the particular injection of fault. The datasets consist of multiple experiments in Multivariant Time Series with many types of sensors. The types of sensors have different notations. For instance, the Relay sensor is notified as EY, Voltage Sensor as E, Current sensor as I, and Position sensor as X. The fault has been studied across different types of sensors. There are many experiments, out of which we have chosen the ‘Industrial Tier1 Competition’ experiment’s datasets. dataset. In that the number of experiments is 60 and out of that 30 experiments have faults injected. This particular dataset has 21 sensor outputs taken across 4 minutes time duration. 
 
+## Pre-Processing:
+The Dataset is preprocessed after Standardisation using Principal Component Analysis and Kernel Principal Component Analysis. This is mainly done to reduce the dimentionality of the data (in this case, 21 feature vectors to 5) to reduce computational complexity during training and the "Curse of Dimentionality". Furthermore, it helps in easy visualisation of data. 
+
+## Model:
+The Model used is a Deep Neural Network with 2 ReLu layers and an output Sigmoid Function. The Cross Entropy Loss function is used along with an Adam Optimiser. The evaluation parameters used are 
+1. Accuracy
+2. Precision
+3. Recall
+4. F1 Score
+5. Cohen's Kappa 
+6. ROC AUC
 
 
