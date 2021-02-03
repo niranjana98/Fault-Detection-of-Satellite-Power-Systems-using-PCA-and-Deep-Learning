@@ -1,4 +1,4 @@
-# Fault Detection of Satellite Power Systems using Deep Learning
+# Fault Detection of Satellite Power Systems using PCA and Deep Learning
 
 Duration: June 2019 - May 2020
 
