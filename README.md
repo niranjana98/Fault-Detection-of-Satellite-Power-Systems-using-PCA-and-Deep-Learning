@@ -24,4 +24,7 @@ The Model used is a Deep Neural Network with 2 ReLu layers and an output Sigmoid
 
 ![alt text](https://github.com/niranjana98/Fault-Detection-of-Satellite-Power-Systems-using-Deep-Learning/blob/main/Model.png)
 
+## Other Classifiers
+The given Dataset is also processed using other classifiers such as SVM, Decision Tree, Naive Bayes and Multi Layer Perceptron
+
 
