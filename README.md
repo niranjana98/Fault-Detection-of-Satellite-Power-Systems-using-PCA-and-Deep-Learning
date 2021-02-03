@@ -14,12 +14,14 @@ The ADAPT is a test bed developed by NASA Ames and Research Centre to act as a b
 The Dataset is preprocessed after Standardisation using Principal Component Analysis and Kernel Principal Component Analysis. This is mainly done to reduce the dimentionality of the data (in this case, 21 feature vectors to 5) to reduce computational complexity during training and the "Curse of Dimentionality". Furthermore, it helps in easy visualisation of data. 
 
 ## Model:
-The Model used is a Deep Neural Network with 2 ReLu layers and an output Sigmoid Function. The Cross Entropy Loss function is used along with an Adam Optimiser. The evaluation parameters used are 
+The Model used is a Deep Neural Network with 2 ReLu layers and an output Sigmoid Function. The Cross Entropy Loss function is used along with an Adam Optimiser. The evaluation parameters used are:
 1. Accuracy
 2. Precision
 3. Recall
 4. F1 Score
 5. Cohen's Kappa 
 6. ROC AUC
+
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
 
 
