@@ -1,5 +1,7 @@
 # Fault Detection of Satellite Power Systems using Deep Learning
 
+Duration: June 2019 - May 2020
+
 ## Link to Publication
 
 http://sersc.org/journals/index.php/IJAST/article/view/16367
