@@ -22,6 +22,6 @@ The Model used is a Deep Neural Network with 2 ReLu layers and an output Sigmoid
 5. Cohen's Kappa 
 6. ROC AUC
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/niranjana98/Fault-Detection-of-Satellite-Power-Systems-using-Deep-Learning/blob/main/Model.png)
 
 
